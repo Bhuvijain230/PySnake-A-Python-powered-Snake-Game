@@ -1,12 +1,11 @@
 # PySnake-A-Python-powered-Snake-Game
  Features:
 
-1)Simple and intuitive gameplay.
-2)Responsive controls: up, down, left, right.
-3)Growing snake length with each apple consumed.
-4)Increasing difficulty with higher speeds.
-5)Scoreboard to track and challenge your best scores.
-
+1) Simple and intuitive gameplay.
+2) Responsive controls: up, down, left, right.
+3) Growing snake length with each apple consumed.
+4) Increasing difficulty with higher speeds.
+5) Scoreboard to track and challenge your best scores.
 
 
 How to Play:
